@@ -1,6 +1,16 @@
 # Frontend Dev Aide
 A helping hand for web developers & aspiring fullstack engineers
 
+## books
+
+## css
+
+## dev ops
+Functional webpack programming thru blocks or functions and setters.
+* [webpack-blocks](https://github.com/andywer/webpack-blocks)
+
+## graphql
+
 ## javascript
 Interactively develop and test your code thru this UI.
 * [Storybook](https://github.com/storybooks/storybook)
@@ -15,26 +25,16 @@ A way to optimize run-time perf of your JS.
 Lazy loading and various snippets for handling it.
 * [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 
-### react
+## newsletters
+* [golangweekly](https://golangweekly.com)
+* [nodeweekly](https://nodeweekly.com)
+* [javascriptweekly](https://javascriptweekly.com)
+
+## react
 Nice resource for handling the behavior of Javascript's `this`.
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56)
 
 Guide to structuring tidy components and allowing devs to control rendering order of items.
 * [Compound Components](http://blog.xebia.in/index.php/2017/12/04/a-new-way-of-writing-components-compound-components)
 
-### vue
-
-### dev ops
-Functional webpack programming thru blocks or functions and setters.
-* [webpack-blocks](https://github.com/andywer/webpack-blocks)
-
-## graphql
-
-## css
-
-## books
-
-## newsletters
-* [golangweekly](https://golangweekly.com)
-* [nodeweekly](https://nodeweekly.com)
-* [javascriptweekly](https://javascriptweekly.com)
+## vue
