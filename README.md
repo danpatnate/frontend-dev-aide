@@ -1,4 +1,4 @@
-# Frontend Dev Aide
+# Frontend[Fullstack ;)] Dev Aide
 A helping hand for web developers
 
 ## javascript
